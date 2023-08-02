@@ -7,7 +7,7 @@ class Agent:
         initial_epsilon: float,
         epsilon_decay: float,
         final_epsilon: float,
-        q_table_size = int,
+        q_table_size : int,
         discount_factor: float = 0.95,
     ):
         """Initialize a Reinforcement Learning agent with an empty dictionary
@@ -20,7 +20,7 @@ class Agent:
             final_epsilon: The final epsilon value
             discount_factor: The discount factor for computing the Q-value
         """
-        self.q_values = np.zeros(q_table_size)
+        self.q_values = np.zeros(shape=(q_table_size, q_table_size))
 
         self.lr = learning_rate
         self.discount_factor = discount_factor
@@ -41,7 +41,8 @@ class Agent:
 
         # with probability (1 - epsilon) act greedily (exploit)
         else:
-            return np.unravel_index(np.argmax(self.q_values, axis=None), self.q_values.shape)[2]
+            #print(obs)
+            return np.argmax(self.q_values[obs[1]])
 
     def update(
         self,
@@ -52,19 +53,16 @@ class Agent:
         next_obs,
     ):
         """Updates the Q-value of an action."""
-        #print(next_obs, next_obs)
-        #print(self.q_values[next_obs[0]][next_obs[1]])
-        future_q_value = (not terminated) * np.max(self.q_values[next_obs[0]][next_obs[1]])
-        #print(obs[0], obs[1])
-        #print(self.q_values[obs[0]][obs[1]])
+        future_q_value = (not terminated) * np.max(self.q_values[next_obs[1]])
+
         temporal_difference = (
-            reward + self.discount_factor * future_q_value - self.q_values[obs[0]][obs[1]][action]
+            reward + self.discount_factor * future_q_value - self.q_values[obs[1]][action]
         )
 
-        self.q_values[obs[0]][obs[1]][action] = (
-            self.q_values[obs[0]][obs[1]][action] + self.lr * temporal_difference
+        self.q_values[obs[1]][action] = (
+            self.q_values[obs[1]][action] + self.lr * temporal_difference
         )
         self.training_error.append(temporal_difference)
 
     def decay_epsilon(self):
-        self.epsilon = max(self.final_epsilon, self.epsilon - epsilon_decay)
+        self.epsilon = max(self.final_epsilon, self.epsilon - self.epsilon_decay)

@@ -1,6 +1,6 @@
 import numpy as np
 import pygame
-
+import pickle as pk
 import gymnasium as gym
 from gymnasium import spaces
 
@@ -9,6 +9,8 @@ class MARCPTR(gym.Env):
     metadata = {"render_modes": ["human", "rgb_array"], "render_fps": 4}
 
     def __init__(self, render_mode=None, size=25):
+        self.user_id = None
+        self.reward_table =  None
         self.size = size  # The size of the square grid
         self.window_size = 512  # The size of the PyGame window
 
@@ -22,20 +24,24 @@ class MARCPTR(gym.Env):
         )
 
         # We have 4 actions, corresponding to "right", "up", "left", "down"
-        self.action_space = spaces.Discrete(4)
+        self.action_space = spaces.Discrete(size)
 
         """
         The following dictionary maps abstract actions from `self.action_space` to
         the direction we will walk in if that action is taken.
         I.e. 0 corresponds to "right", 1 to "up" etc.
         """
+        self._action_to_direction = {}
+        for item in range(25):
+            self._action_to_direction[item] = np.array([0, item])
+        '''
         self._action_to_direction = {
             0: np.array([1, 0]),
             1: np.array([0, 1]),
             2: np.array([-1, 0]),
             3: np.array([0, -1]),
         }
-
+        '''
         assert render_mode is None or render_mode in self.metadata["render_modes"]
         self.render_mode = render_mode
 
@@ -53,11 +59,7 @@ class MARCPTR(gym.Env):
         return {"agent": self._agent_location, "target": self._target_location}
     
     def _get_info(self):
-        return {
-            "distance": np.linalg.norm(
-                self._agent_location - self._target_location, ord=1
-            )
-                }
+        return {"distance": abs(self._agent_location - self._target_location)}
 
     def reset(self, seed=None, options=None):
         # We need the following line to seed self.np_random
@@ -65,13 +67,12 @@ class MARCPTR(gym.Env):
 
         # Choose the agent's location uniformly at random
         
-        
-        self._target_location = np.array([np.random.randint(self.size), np.random.randint(self.size)])
-        #self._target_location = np.array([1,1])
+        self._target_location = np.array([0, np.random.randint(self.size)])
+
         self._agent_location = self._target_location
         while np.array_equal(self._target_location, self._agent_location):
-            self._agent_location = np.array([np.random.randint(self.size), np.random.randint(self.size)])
-            
+            self._agent_location = np.array([0, np.random.randint(self.size)])
+           
 
         observation = self._get_obs()
         info = self._get_info()
@@ -83,14 +84,22 @@ class MARCPTR(gym.Env):
     
     def step(self, action):
         # Map the action (element of {0,1,2,3}) to the direction we walk in
+        #print(action)
+        #print(self._agent_location)
         direction = self._action_to_direction[action]
         # We use `np.clip` to make sure we don't leave the grid
+        
+        '''
         self._agent_location = np.clip(
             self._agent_location + direction, 0, self.size - 1
         )
+        '''
+        old_location = self._agent_location
+        self._agent_location = direction
+        
         # An episode is done iff the agent has reached the target
         terminated = np.array_equal(self._agent_location, self._target_location)
-        reward = 1 if terminated else 0  # Binary sparse rewards
+        reward = 1 if terminated else 0 + self.reward_function(old_location, self._agent_location) # Binary sparse rewards
         observation = self._get_obs()
         info = self._get_info()
 
@@ -169,7 +178,22 @@ class MARCPTR(gym.Env):
     def set_size(self, size):
         self.size = size
         return self.size
-
+        
+    def define_user(self, userid):
+        self.user_id = userid
+        
+        file = open('data_process/adjacency', 'rb')
+        data = pk.load(file)
+        
+        self.reward_table = data[self.user_id]
+    
+    def reward_function(self, old, new):
+        #print(self.reward_table[old[1], new[1]])
+        #print(old[1], new[1])
+        #print(self.reward_table[old][new])
+        
+        return self.reward_table[old[1], new[1]]
+    
     def close(self):
         if self.window is not None:
             pygame.display.quit()
