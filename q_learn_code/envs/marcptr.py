@@ -61,18 +61,23 @@ class MARCPTR(gym.Env):
     def _get_info(self):
         return {"distance": abs(self._agent_location - self._target_location)}
 
-    def reset(self, seed=None, options=None):
+    def reset(self, seed=None, options=None, start=None, end=None):
         # We need the following line to seed self.np_random
         super().reset(seed=seed)
 
         # Choose the agent's location uniformly at random
         
-        self._target_location = np.array([0, np.random.randint(self.size)])
+        if(start==None and end==None):
+            self._target_location = np.array([0, np.random.randint(self.size)])
 
-        self._agent_location = self._target_location
-        while np.array_equal(self._target_location, self._agent_location):
-            self._agent_location = np.array([0, np.random.randint(self.size)])
-           
+            self._agent_location = self._target_location
+            while np.array_equal(self._target_location, self._agent_location):
+                self._agent_location = np.array([0, np.random.randint(self.size)])
+        else:
+            self._agent_location = np.array([0, start])
+            self._target_location = np.array([0, end])
+            
+
 
         observation = self._get_obs()
         info = self._get_info()
@@ -99,7 +104,8 @@ class MARCPTR(gym.Env):
         
         # An episode is done iff the agent has reached the target
         terminated = np.array_equal(self._agent_location, self._target_location)
-        reward = 1 if terminated else 0 + self.reward_function(old_location, self._agent_location) # Binary sparse rewards
+        #reward = 1 if terminated else 0 + self.reward_function(old_location, self._agent_location) # Binary sparse rewards
+        reward = self.reward_function(old_location, self._agent_location) # Binary sparse rewards
         observation = self._get_obs()
         info = self._get_info()
 
@@ -179,10 +185,10 @@ class MARCPTR(gym.Env):
         self.size = size
         return self.size
         
-    def define_user(self, userid):
+    def define_user(self, userid, city):
         self.user_id = userid
         
-        file = open('data_process/adjacency', 'rb')
+        file = open('data_process/' + city + '/adjacency', 'rb')
         data = pk.load(file)
         
         self.reward_table = data[self.user_id]
