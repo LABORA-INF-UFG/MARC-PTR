@@ -8,23 +8,23 @@ from gymnasium import spaces
 class MARCPTR(gym.Env):
     metadata = {"render_modes": ["human", "rgb_array"], "render_fps": 4}
 
-    def __init__(self, render_mode=None, size=25):
+    def __init__(self, render_mode=None):
         self.user_id = None
         self.reward_table =  None
-        self.size = size  # The size of the square grid
+        self.size = 25  # The size of the square grid
         self.window_size = 512  # The size of the PyGame window
 
         # Observations are dictionaries with the agent's and the target's location.
         # Each location is encoded as an element of {0, ..., `size`}^2, i.e. MultiDiscrete([size, size]).
         self.observation_space = spaces.Dict(
             {
-                "agent": spaces.Box(0, size - 1, shape=(2,), dtype=int),
-                "target": spaces.Box(0, size - 1, shape=(2,), dtype=int),
+                "agent": spaces.Box(0, self.size - 1, shape=(2,), dtype=int),
+                "target": spaces.Box(0, self.size - 1, shape=(2,), dtype=int),
             }
         )
 
         # We have 4 actions, corresponding to "right", "up", "left", "down"
-        self.action_space = spaces.Discrete(size)
+        self.action_space = spaces.Discrete(self.size)
 
         """
         The following dictionary maps abstract actions from `self.action_space` to
@@ -32,7 +32,7 @@ class MARCPTR(gym.Env):
         I.e. 0 corresponds to "right", 1 to "up" etc.
         """
         self._action_to_direction = {}
-        for item in range(25):
+        for item in range(self.size):
             self._action_to_direction[item] = np.array([0, item])
         '''
         self._action_to_direction = {
@@ -183,6 +183,19 @@ class MARCPTR(gym.Env):
             )
     def set_size(self, size):
         self.size = size
+        
+        self.observation_space = spaces.Dict(
+                {
+                    "agent": spaces.Box(0, size - 1, shape=(2,), dtype=int),
+                    "target": spaces.Box(0, size - 1, shape=(2,), dtype=int),
+                }
+        )
+
+        self.action_space = spaces.Discrete(size)
+        
+        
+        for item in range(size):
+            self._action_to_direction[item] = np.array([0, item])
         return self.size
         
     def define_user(self, userid, city):

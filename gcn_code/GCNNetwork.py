@@ -1,4 +1,5 @@
 from gcn_code.GCNLayer import GCNLayer
+#from gcn_code.SoftmaxLayer import SoftmaxLayer
 import numpy as np
 
 class GCNNetwork():
@@ -36,11 +37,9 @@ class GCNNetwork():
         return np.asarray(H)
     
     def forward(self, A, X):
-        print('this is ok')
         # GCN layers
         H = self.embedding(A, X)
-        print('this is ok')
         # Softmax
         #p = self.layers[-1].forward(H)
-        #print('this is ok')
+
         return np.asarray(p)
