@@ -1,0 +1,9370 @@
+{
+    "100721644@N08": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "100768432@N08": {
+        "original": [
+            15
+        ],
+        "recommendation": [
+            15
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "101005415@N02": {
+        "original": [
+            9
+        ],
+        "recommendation": [
+            9
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "102897707@N03": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "103468177@N08": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "105498794@N02": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "10566322@N05": {
+        "original": [
+            1,
+            4,
+            5
+        ],
+        "recommendation": [
+            1,
+            15,
+            4,
+            25,
+            24,
+            6,
+            9,
+            26,
+            10,
+            19,
+            12,
+            23,
+            30,
+            20,
+            2,
+            17,
+            27,
+            29,
+            16,
+            18,
+            8,
+            7,
+            28,
+            14,
+            5
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005,
+            25,
+            25,
+            25,
+            21.375,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "106391491@N02": {
+        "original": [
+            22,
+            19,
+            3,
+            11
+        ],
+        "recommendation": [
+            22,
+            18,
+            29,
+            2,
+            24,
+            15,
+            14,
+            19,
+            8,
+            20,
+            27,
+            1,
+            23,
+            12,
+            4,
+            25,
+            30,
+            7,
+            5,
+            11
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35,
+            35,
+            35,
+            35,
+            29.925,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "106474616@N07": {
+        "original": [
+            1,
+            12
+        ],
+        "recommendation": [
+            1,
+            19,
+            26,
+            30,
+            29,
+            18,
+            14,
+            16,
+            8,
+            15,
+            27,
+            20,
+            10,
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "106568016@N05": {
+        "original": [
+            6
+        ],
+        "recommendation": [
+            6
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "10691940@N08": {
+        "original": [
+            5
+        ],
+        "recommendation": [
+            5
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "10758030@N06": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "10779900@N04": {
+        "original": [
+            10
+        ],
+        "recommendation": [
+            10
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "108909530@N03": {
+        "original": [
+            5
+        ],
+        "recommendation": [
+            5
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            21.375
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "110694098@N06": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "11224573@N03": {
+        "original": [
+            3,
+            11
+        ],
+        "recommendation": [
+            3,
+            25,
+            4,
+            14,
+            19,
+            18,
+            29,
+            30,
+            20,
+            1,
+            6,
+            17,
+            21,
+            13,
+            8,
+            24,
+            15,
+            27,
+            23,
+            9,
+            10,
+            12,
+            2,
+            11
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "112372388@N03": {
+        "original": [
+            6
+        ],
+        "recommendation": [
+            6
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "113158165@N04": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "114358726@N08": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "114999144@N04": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "11537427@N04": {
+        "original": [
+            16,
+            19
+        ],
+        "recommendation": [
+            16,
+            8,
+            24,
+            22,
+            4,
+            15,
+            10,
+            21,
+            13,
+            2,
+            17,
+            30,
+            27,
+            29,
+            9,
+            26,
+            7,
+            5,
+            6,
+            19
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "115677596@N07": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "11881701@N07": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "121599507@N06": {
+        "original": [
+            10
+        ],
+        "recommendation": [
+            10
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "12388124@N06": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "124309478@N03": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "124636406@N07": {
+        "original": [
+            24
+        ],
+        "recommendation": [
+            24
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "125293801@N07": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "125511335@N05": {
+        "original": [
+            17,
+            8
+        ],
+        "recommendation": [
+            17,
+            22,
+            11,
+            27,
+            26,
+            30,
+            8
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            8.55,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "126031117@N07": {
+        "original": [
+            24
+        ],
+        "recommendation": [
+            24
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "126550753@N03": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "127226743@N02": {
+        "original": [
+            15,
+            27,
+            19
+        ],
+        "recommendation": [
+            15,
+            20,
+            29,
+            2,
+            28,
+            7,
+            12,
+            8,
+            17,
+            3,
+            6,
+            9,
+            10,
+            23,
+            24,
+            30,
+            19
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "127434104@N07": {
+        "original": [
+            24
+        ],
+        "recommendation": [
+            24
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "130326114@N04": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            10.683225000000002
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "130610051@N02": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "130624433@N04": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "13069463@N00": {
+        "original": [
+            3,
+            22,
+            12
+        ],
+        "recommendation": [
+            3,
+            24,
+            30,
+            27,
+            17,
+            21,
+            19,
+            1,
+            25,
+            8,
+            15,
+            4,
+            16,
+            12
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35,
+            20.349000000000004,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "130823817@N03": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "132646954@N02": {
+        "original": [
+            2,
+            23,
+            12
+        ],
+        "recommendation": [
+            2,
+            15,
+            21,
+            24,
+            22,
+            4,
+            29,
+            30,
+            27,
+            20,
+            13,
+            8,
+            17,
+            11,
+            19,
+            25,
+            18,
+            14,
+            6,
+            9,
+            10,
+            23,
+            28,
+            7,
+            5,
+            1,
+            12
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            3.0523499999999997,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "133073376@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "134532795@N05": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "134754438@N03": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "134802779@N04": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "13484951@N00": {
+        "original": [
+            9
+        ],
+        "recommendation": [
+            9
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "135257880@N07": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            7.6308750000000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "135951820@N07": {
+        "original": [
+            13,
+            9
+        ],
+        "recommendation": [
+            13,
+            20,
+            7,
+            21,
+            6,
+            2,
+            15,
+            27,
+            26,
+            22,
+            17,
+            3,
+            8,
+            9
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "135974867@N08": {
+        "original": [
+            1,
+            12
+        ],
+        "recommendation": [
+            1,
+            6,
+            9,
+            24,
+            22,
+            17,
+            28,
+            8,
+            15,
+            27,
+            26,
+            30,
+            13,
+            5,
+            25,
+            4,
+            16,
+            18,
+            7,
+            21,
+            19,
+            20,
+            10,
+            23,
+            12
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006,
+            33.25,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "135994211@N04": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "137957466@N02": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "138438270@N05": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "138658702@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "139081931@N05": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "139362855@N03": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "139683089@N06": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "139834912@N02": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "139841152@N02": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "140269965@N02": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "140637309@N02": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "141797363@N04": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "141850639@N02": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "142063592@N03": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            6.944096250000001
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "142360032@N02": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            4.3605
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "142382111@N07": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "14244133@N00": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "142818860@N04": {
+        "original": [
+            1,
+            3
+        ],
+        "recommendation": [
+            1,
+            24,
+            14,
+            21,
+            12,
+            19,
+            26,
+            30,
+            15,
+            22,
+            8,
+            11,
+            17,
+            5,
+            20,
+            10,
+            23,
+            27,
+            3
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006,
+            20.349000000000004,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "142835563@N05": {
+        "original": [
+            5
+        ],
+        "recommendation": [
+            5
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            8.55
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "143599265@N05": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "14395886@N08": {
+        "original": [
+            8
+        ],
+        "recommendation": [
+            8
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "144852261@N04": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "145321357@N06": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            6.944096250000001
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "145428135@N05": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "146271754@N07": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "146294738@N08": {
+        "original": [
+            5
+        ],
+        "recommendation": [
+            5
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            21.375
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "146427754@N05": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            6.944096250000001
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "146878425@N05": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "147553415@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "147961541@N05": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "149141300@N02": {
+        "original": [
+            25
+        ],
+        "recommendation": [
+            25
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "149301602@N02": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "149723982@N04": {
+        "original": [
+            1,
+            5
+        ],
+        "recommendation": [
+            1,
+            11,
+            7,
+            12,
+            30,
+            27,
+            20,
+            29,
+            2,
+            15,
+            14,
+            6,
+            24,
+            22,
+            8,
+            21,
+            19,
+            18,
+            9,
+            13,
+            5
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "149795510@N05": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "151709924@N06": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "153031613@N06": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "153351402@N02": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "153480501@N04": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "153808976@N06": {
+        "original": [
+            25
+        ],
+        "recommendation": [
+            25
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "155435502@N07": {
+        "original": [
+            19,
+            23
+        ],
+        "recommendation": [
+            19,
+            30,
+            26,
+            7,
+            5,
+            15,
+            21,
+            13,
+            4,
+            6,
+            9,
+            8,
+            17,
+            3,
+            29,
+            10,
+            12,
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001,
+            18.16875,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "155618889@N08": {
+        "original": [
+            15
+        ],
+        "recommendation": [
+            15
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "155650454@N04": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "155718494@N03": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "156397900@N04": {
+        "original": [
+            14
+        ],
+        "recommendation": [
+            14
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "157629306@N05": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "158597970@N03": {
+        "original": [
+            11,
+            1
+        ],
+        "recommendation": [
+            11,
+            19,
+            21,
+            12,
+            30,
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "15887624@N02": {
+        "original": [
+            6
+        ],
+        "recommendation": [
+            6
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "158939225@N07": {
+        "original": [
+            24,
+            23
+        ],
+        "recommendation": [
+            24,
+            27,
+            18,
+            8,
+            15,
+            26,
+            17,
+            12,
+            30,
+            21,
+            19,
+            10,
+            1,
+            28,
+            6,
+            9,
+            20,
+            2,
+            23
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "159202331@N07": {
+        "original": [
+            24
+        ],
+        "recommendation": [
+            24
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "159243609@N08": {
+        "original": [
+            5,
+            2,
+            23
+        ],
+        "recommendation": [
+            5,
+            11,
+            24,
+            30,
+            26,
+            12,
+            8,
+            19,
+            21,
+            13,
+            2,
+            15,
+            28,
+            6,
+            20,
+            29,
+            17,
+            25,
+            4,
+            14,
+            22,
+            1,
+            23
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            8.55,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "160246333@N04": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "160780222@N07": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "164473099@N03": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            6.944096250000001
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "167011447@N08": {
+        "original": [
+            5
+        ],
+        "recommendation": [
+            5
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "16884413@N08": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "16952274@N07": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            7.6308750000000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "17673967@N00": {
+        "original": [
+            15
+        ],
+        "recommendation": [
+            15
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "18555344@N00": {
+        "original": [
+            11
+        ],
+        "recommendation": [
+            11
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "18804176@N00": {
+        "original": [
+            22
+        ],
+        "recommendation": [
+            22
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "19322720@N00": {
+        "original": [
+            16
+        ],
+        "recommendation": [
+            16
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "20950924@N03": {
+        "original": [
+            5
+        ],
+        "recommendation": [
+            5
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            21.375
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "21044314@N02": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            15.261750000000003
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "21425845@N04": {
+        "original": [
+            12,
+            22
+        ],
+        "recommendation": [
+            12,
+            8,
+            6,
+            19,
+            21,
+            13,
+            2,
+            15,
+            10,
+            23,
+            24,
+            22
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "21447101@N05": {
+        "original": [
+            16
+        ],
+        "recommendation": [
+            16
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "21719075@N06": {
+        "original": [
+            12,
+            2
+        ],
+        "recommendation": [
+            12,
+            8,
+            6,
+            9,
+            1,
+            18,
+            14,
+            30,
+            16,
+            19,
+            21,
+            24,
+            15,
+            20,
+            4,
+            25,
+            29,
+            10,
+            23,
+            27,
+            26,
+            7,
+            17,
+            22,
+            28,
+            5,
+            13,
+            2
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "21925182@N02": {
+        "original": [
+            5,
+            2
+        ],
+        "recommendation": [
+            5,
+            15,
+            22,
+            4,
+            30,
+            26,
+            17,
+            27,
+            3,
+            10,
+            21,
+            6,
+            9,
+            1,
+            24,
+            25,
+            20,
+            2
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            29.925,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "22152932@N08": {
+        "original": [
+            1,
+            19
+        ],
+        "recommendation": [
+            1,
+            25,
+            21,
+            24,
+            11,
+            19
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "22219726@N00": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "22254904@N06": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "22419942@N02": {
+        "original": [
+            16
+        ],
+        "recommendation": [
+            16
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "22440422@N04": {
+        "original": [
+            1,
+            23
+        ],
+        "recommendation": [
+            1,
+            24,
+            15,
+            4,
+            19,
+            21,
+            13,
+            8,
+            27,
+            16,
+            25,
+            20,
+            10,
+            23
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075,
+            5.814,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "22461074@N04": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "22465386@N05": {
+        "original": [
+            1,
+            24
+        ],
+        "recommendation": [
+            1,
+            15,
+            4,
+            6,
+            24
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006,
+            35,
+            35,
+            35,
+            29.925
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "23097875@N00": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "23407147@N08": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "23789055@N00": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            10.683225000000002
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "24406544@N00": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "24879135@N04": {
+        "original": [
+            1,
+            23
+        ],
+        "recommendation": [
+            1,
+            19,
+            18,
+            20,
+            29,
+            22,
+            4,
+            25,
+            3,
+            16,
+            6,
+            9,
+            13,
+            12,
+            8,
+            30,
+            27,
+            14,
+            7,
+            21,
+            24,
+            15,
+            28,
+            5,
+            26,
+            17,
+            23
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "25563261@N05": {
+        "original": [
+            12,
+            5,
+            24,
+            23
+        ],
+        "recommendation": [
+            12,
+            24,
+            30,
+            10,
+            19,
+            18,
+            29,
+            2,
+            17,
+            3,
+            8,
+            6,
+            20,
+            9,
+            1,
+            11,
+            25,
+            21,
+            16,
+            26,
+            7,
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005,
+            14.535,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "25657697@N05": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            6.944096250000001
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "26254035@N00": {
+        "original": [
+            3,
+            4
+        ],
+        "recommendation": [
+            3,
+            1,
+            25,
+            4
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "26383135@N05": {
+        "original": [
+            22
+        ],
+        "recommendation": [
+            22
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "27087053@N04": {
+        "original": [
+            25
+        ],
+        "recommendation": [
+            25
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "27466040@N03": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "28131412@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "29745661@N08": {
+        "original": [
+            22,
+            12
+        ],
+        "recommendation": [
+            22,
+            8,
+            15,
+            27,
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "29995326@N02": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "30460746@N05": {
+        "original": [
+            3
+        ],
+        "recommendation": [
+            3
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "30682801@N03": {
+        "original": [
+            1,
+            23,
+            12
+        ],
+        "recommendation": [
+            1,
+            19,
+            18,
+            20,
+            3,
+            29,
+            30,
+            27,
+            12
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "30908892@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "31692312@N08": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            7.6308750000000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "31818496@N00": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "33521299@N03": {
+        "original": [
+            22
+        ],
+        "recommendation": [
+            22
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "33830464@N04": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            6.944096250000001
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "33973444@N05": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "33998137@N08": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "34305619@N06": {
+        "original": [
+            20
+        ],
+        "recommendation": [
+            20
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "34685004@N00": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "34911734@N07": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "35082628@N06": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            7.6308750000000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "35267357@N03": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "35658363@N00": {
+        "original": [
+            17
+        ],
+        "recommendation": [
+            17
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "35690661@N08": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "36209700@N02": {
+        "original": [
+            22,
+            1,
+            23,
+            12
+        ],
+        "recommendation": [
+            22,
+            6,
+            9,
+            4,
+            25,
+            21,
+            8,
+            30,
+            27,
+            26,
+            10,
+            12
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35,
+            33.25,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "36521965462@N01": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "36980226@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "37423935@N00": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "37426375@N05": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "37607273@N06": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "37912373962@N01": {
+        "original": [
+            4,
+            23
+        ],
+        "recommendation": [
+            4,
+            24,
+            22,
+            20,
+            29,
+            30,
+            19,
+            8,
+            17,
+            21,
+            11,
+            7,
+            12,
+            15,
+            27,
+            26,
+            10,
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001,
+            14.535,
+            25,
+            25,
+            25,
+            21.375,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "39450631@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "39739891@N05": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "40314916@N02": {
+        "original": [
+            2,
+            1
+        ],
+        "recommendation": [
+            2,
+            6,
+            24,
+            11,
+            8,
+            17,
+            27,
+            26,
+            15,
+            18,
+            29,
+            30,
+            10,
+            12,
+            25,
+            4,
+            28,
+            5,
+            7,
+            9,
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            7.6308750000000005,
+            23.75,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "40601514@N02": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "40605382@N06": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "41302121@N05": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "41889866@N03": {
+        "original": [
+            2,
+            23
+        ],
+        "recommendation": [
+            2,
+            23
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            3.0523499999999997,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1
+        ]
+    },
+    "42896453@N07": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            4.3605
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "42914481@N00": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "42977341@N00": {
+        "original": [
+            1,
+            11
+        ],
+        "recommendation": [
+            1,
+            24,
+            15,
+            4,
+            25,
+            29,
+            30,
+            7,
+            5,
+            27,
+            26,
+            21,
+            12,
+            8,
+            28,
+            14,
+            19,
+            18,
+            6,
+            9,
+            13,
+            11
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075,
+            5.814,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "43045536@N08": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "43218697@N02": {
+        "original": [
+            24
+        ],
+        "recommendation": [
+            24
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "43367736@N03": {
+        "original": [
+            27
+        ],
+        "recommendation": [
+            27
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "43935390535@N01": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            7.6308750000000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "44173976@N02": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "44220200@N05": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "44335492@N00": {
+        "original": [
+            12,
+            5,
+            24,
+            23,
+            22
+        ],
+        "recommendation": [
+            12,
+            1,
+            23,
+            15,
+            27,
+            26,
+            30,
+            20,
+            9,
+            4,
+            25,
+            18,
+            8,
+            17,
+            5,
+            6,
+            19,
+            21,
+            13,
+            14,
+            7,
+            10,
+            2,
+            11,
+            24,
+            28,
+            22
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            6.944096250000001,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "44351547@N02": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "44511408@N04": {
+        "original": [
+            1,
+            12
+        ],
+        "recommendation": [
+            1,
+            6,
+            9,
+            8,
+            24,
+            30,
+            21,
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005,
+            23.75,
+            25,
+            25,
+            21.375,
+            21.375,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "44658428@N06": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "45133912@N00": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "46020637@N03": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "46037618@N02": {
+        "original": [
+            19,
+            12
+        ],
+        "recommendation": [
+            19,
+            8,
+            2,
+            27,
+            26,
+            30,
+            20,
+            9,
+            4,
+            6,
+            15,
+            28,
+            7,
+            29,
+            18,
+            14,
+            16,
+            25,
+            1,
+            24,
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001,
+            25,
+            25,
+            25,
+            25,
+            21.375,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "46604778@N00": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "46981478@N00": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "47332234@N07": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "48884967@N04": {
+        "original": [
+            23,
+            1,
+            5
+        ],
+        "recommendation": [
+            23,
+            17,
+            3,
+            26,
+            15,
+            14,
+            6,
+            11,
+            19,
+            18,
+            8,
+            30,
+            12,
+            7,
+            20,
+            29,
+            10,
+            21,
+            13,
+            1,
+            4,
+            25,
+            16,
+            24,
+            5
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            6.944096250000001,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "49123487@N07": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            6.944096250000001
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "49197735@N07": {
+        "original": [
+            25
+        ],
+        "recommendation": [
+            25
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "50115004@N00": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "50141284@N04": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "50152583@N04": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            7.6308750000000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "50658935@N00": {
+        "original": [
+            25
+        ],
+        "recommendation": [
+            25
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "50725098@N08": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "50968842@N04": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "53429626@N04": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "53632001@N02": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "53976240@N00": {
+        "original": [
+            27
+        ],
+        "recommendation": [
+            27
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "54330887@N05": {
+        "original": [
+            1,
+            11
+        ],
+        "recommendation": [
+            1,
+            30,
+            10,
+            19,
+            21,
+            24,
+            15,
+            4,
+            6,
+            5,
+            23,
+            17,
+            14,
+            26,
+            22,
+            8,
+            18,
+            9,
+            3,
+            29,
+            2,
+            28,
+            7,
+            20,
+            16,
+            25,
+            12,
+            27,
+            13,
+            11
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006,
+            25.43625,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "54657138@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "55109212@N08": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "56198761@N00": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "56235405@N00": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "56338397@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "58107867@N04": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "58478677@N03": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            15.261750000000003
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "58563435@N02": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "58600661@N06": {
+        "original": [
+            18
+        ],
+        "recommendation": [
+            18
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "58936861@N04": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "59591427@N04": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "59671408@N06": {
+        "original": [
+            15
+        ],
+        "recommendation": [
+            15
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "60030427@N07": {
+        "original": [
+            11,
+            3
+        ],
+        "recommendation": [
+            11,
+            24,
+            6,
+            9,
+            4,
+            15,
+            20,
+            26,
+            27,
+            12,
+            30,
+            1,
+            19,
+            21,
+            8,
+            25,
+            29,
+            10,
+            3
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35,
+            20.349000000000004,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "61579728@N05": {
+        "original": [
+            16
+        ],
+        "recommendation": [
+            16
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "62954180@N08": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "63122283@N06": {
+        "original": [
+            3
+        ],
+        "recommendation": [
+            3
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "64081410@N00": {
+        "original": [
+            5
+        ],
+        "recommendation": [
+            5
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            8.55
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "64453480@N00": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            6.944096250000001
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "64655073@N04": {
+        "original": [
+            1,
+            2
+        ],
+        "recommendation": [
+            1,
+            17,
+            22,
+            8,
+            24,
+            15,
+            10,
+            19,
+            4,
+            25,
+            16,
+            20,
+            29,
+            30,
+            26,
+            7,
+            21,
+            12,
+            23,
+            5,
+            11,
+            6,
+            2
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075,
+            10,
+            10,
+            10,
+            8.55,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "65215645@N08": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "65629816@N06": {
+        "original": [
+            27
+        ],
+        "recommendation": [
+            27
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "65789667@N06": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "66325898@N04": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "66784023@N04": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "66792513@N07": {
+        "original": [
+            12,
+            17
+        ],
+        "recommendation": [
+            12,
+            30,
+            20,
+            28,
+            4,
+            18,
+            15,
+            25,
+            29,
+            6,
+            24,
+            8,
+            9,
+            13,
+            2,
+            27,
+            3,
+            10,
+            23,
+            17
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005,
+            18.16875,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "66944824@N05": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "69793877@N07": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "7188159@N05": {
+        "original": [
+            15,
+            8,
+            11
+        ],
+        "recommendation": [
+            15,
+            30,
+            5,
+            11
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25,
+            18.16875,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "7238240@N04": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "72511383@N00": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "72576110@N08": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "72618162@N00": {
+        "original": [
+            25
+        ],
+        "recommendation": [
+            25
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "7298338@N04": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "74153838@N00": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "74375651@N05": {
+        "original": [
+            17
+        ],
+        "recommendation": [
+            17
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "74492093@N00": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "74855102@N08": {
+        "original": [
+            11
+        ],
+        "recommendation": [
+            11
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "75875120@N05": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "75979268@N05": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "76034525@N00": {
+        "original": [
+            8,
+            2
+        ],
+        "recommendation": [
+            8,
+            15,
+            19,
+            21,
+            13,
+            20,
+            4,
+            6,
+            9,
+            10,
+            5,
+            11,
+            17,
+            23,
+            30,
+            27,
+            3,
+            26,
+            2
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "76043879@N00": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "76061256@N08": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "77116378@N03": {
+        "original": [
+            5
+        ],
+        "recommendation": [
+            5
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            21.375
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "77331425@N00": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "77434771@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "7753559@N02": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "7812564@N02": {
+        "original": [
+            8
+        ],
+        "recommendation": [
+            8
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "78383730@N05": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "7862062@N03": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "7863918@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "79926738@N02": {
+        "original": [
+            15,
+            23
+        ],
+        "recommendation": [
+            15,
+            21,
+            10,
+            19,
+            8,
+            17,
+            27,
+            29,
+            30,
+            26,
+            22,
+            1,
+            25,
+            6,
+            11,
+            12,
+            20,
+            16,
+            9,
+            13,
+            4,
+            28,
+            7,
+            24,
+            2,
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "81918877@N00": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "82362654@N00": {
+        "original": [
+            24,
+            2
+        ],
+        "recommendation": [
+            24,
+            27,
+            26,
+            22,
+            17,
+            30,
+            12,
+            20,
+            25,
+            4,
+            14,
+            19,
+            18,
+            6,
+            8,
+            21,
+            13,
+            7,
+            15,
+            28,
+            1,
+            23,
+            9,
+            10,
+            5,
+            11,
+            29,
+            2
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35,
+            35,
+            35,
+            35,
+            35,
+            29.925,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "8238271@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "82496804@N00": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "83065768@N07": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "83133884@N00": {
+        "original": [
+            11
+        ],
+        "recommendation": [
+            11
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "83833206@N00": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "8523419@N08": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "85665266@N00": {
+        "original": [
+            1,
+            11,
+            5,
+            12
+        ],
+        "recommendation": [
+            1,
+            19,
+            18,
+            8,
+            15,
+            21,
+            13,
+            2,
+            23,
+            12
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "8593771@N02": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            4.3605
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "86573568@N00": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "87136546@N08": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            7.6308750000000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "87246644@N07": {
+        "original": [
+            2,
+            1
+        ],
+        "recommendation": [
+            2,
+            6,
+            15,
+            27,
+            26,
+            30,
+            21,
+            13,
+            8,
+            17,
+            3,
+            1
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            10.683225000000002,
+            33.25,
+            35,
+            35,
+            35,
+            29.925,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "87443546@N00": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            3.0523499999999997
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "87974483@N02": {
+        "original": [
+            4,
+            12
+        ],
+        "recommendation": [
+            4,
+            19,
+            20,
+            26,
+            30,
+            27,
+            29,
+            24,
+            15,
+            21,
+            13,
+            11,
+            23,
+            25,
+            18,
+            14,
+            6,
+            2,
+            1,
+            28,
+            8,
+            22,
+            17,
+            3,
+            10,
+            5,
+            7,
+            9,
+            12
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            15.261750000000003,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "89254734@N00": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            7.6308750000000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "89509320@N05": {
+        "original": [
+            3
+        ],
+        "recommendation": [
+            3
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "9005878@N08": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            15.261750000000003
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "90091514@N06": {
+        "original": [
+            25
+        ],
+        "recommendation": [
+            25
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "91096499@N03": {
+        "original": [
+            11
+        ],
+        "recommendation": [
+            11
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "91205413@N03": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "91318108@N00": {
+        "original": [
+            24,
+            4
+        ],
+        "recommendation": [
+            24,
+            1,
+            8,
+            15,
+            4
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "91468221@N00": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "92647872@N05": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "92903356@N04": {
+        "original": [
+            27,
+            4
+        ],
+        "recommendation": [
+            27,
+            26,
+            4
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25,
+            25,
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0,
+            0,
+            0
+        ]
+    },
+    "93311437@N00": {
+        "original": [
+            25
+        ],
+        "recommendation": [
+            25
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "94031111@N05": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            4.9600687500000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "95039473@N03": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            0.654729075
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95
+        ]
+    },
+    "95095654@N03": {
+        "original": [
+            1,
+            23,
+            11,
+            12
+        ],
+        "recommendation": [
+            1,
+            30,
+            26,
+            20,
+            8,
+            29,
+            16,
+            27,
+            18,
+            14,
+            6,
+            9,
+            10,
+            5,
+            15,
+            4,
+            25,
+            28,
+            7,
+            19,
+            21,
+            13,
+            2,
+            17,
+            12
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            2.2915517625000006,
+            25.43625,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            0.95,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "95127930@N07": {
+        "original": [
+            23,
+            19
+        ],
+        "recommendation": [
+            23,
+            30,
+            1,
+            6,
+            15,
+            24,
+            20,
+            29,
+            10,
+            3,
+            7,
+            12,
+            8,
+            17,
+            22,
+            4,
+            25,
+            21,
+            13,
+            5,
+            26,
+            27,
+            16,
+            19
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998,
+            7.2675,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "95273563@N08": {
+        "original": [
+            2,
+            5,
+            12
+        ],
+        "recommendation": [
+            2,
+            27,
+            26,
+            17,
+            21,
+            19,
+            18,
+            1,
+            23,
+            8,
+            15,
+            4,
+            14,
+            7,
+            29,
+            24,
+            30,
+            10,
+            6,
+            25,
+            20,
+            9,
+            13,
+            11,
+            28,
+            5,
+            3,
+            16,
+            12
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            3.0523499999999997,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "9538836@N08": {
+        "original": [
+            4,
+            12
+        ],
+        "recommendation": [
+            4,
+            24,
+            30,
+            1,
+            23,
+            13,
+            20,
+            21,
+            19,
+            18,
+            8,
+            22,
+            6,
+            9,
+            26,
+            10,
+            5,
+            15,
+            28,
+            7,
+            12
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            15.261750000000003,
+            20.349000000000004,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "95486891@N07": {
+        "original": [
+            25
+        ],
+        "recommendation": [
+            25
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1
+        ]
+    },
+    "96032114@N05": {
+        "original": [
+            5
+        ],
+        "recommendation": [
+            5
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "96334390@N06": {
+        "original": [
+            12
+        ],
+        "recommendation": [
+            12
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "96348782@N02": {
+        "original": [
+            2,
+            5,
+            22
+        ],
+        "recommendation": [
+            2,
+            30,
+            12,
+            8,
+            24,
+            6,
+            9,
+            13,
+            20,
+            29,
+            22
+        ],
+        "demand_bandwidth": [
+            2.5,
+            35
+        ],
+        "allocated_bandwidth": [
+            10.683225000000002,
+            25.43625,
+            35,
+            35,
+            29.925,
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "96740637@N03": {
+        "original": [
+            2
+        ],
+        "recommendation": [
+            2
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            7.6308750000000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "96834874@N06": {
+        "original": [
+            5,
+            12,
+            25
+        ],
+        "recommendation": [
+            5,
+            15,
+            24,
+            6,
+            8,
+            30,
+            26,
+            7,
+            9,
+            4,
+            25
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            8.55,
+            10,
+            10,
+            10,
+            10,
+            8.55,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "96972218@N06": {
+        "original": [
+            12,
+            1
+        ],
+        "recommendation": [
+            12,
+            30,
+            26,
+            15,
+            22,
+            4,
+            25,
+            18,
+            29,
+            17,
+            14,
+            19,
+            21,
+            1
+        ],
+        "demand_bandwidth": [
+            1,
+            10
+        ],
+        "allocated_bandwidth": [
+            1.9840274999999998,
+            7.2675,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "demand_mec": [
+            0.1,
+            1
+        ],
+        "allocated_mec": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "97431188@N02": {
+        "original": [
+            20
+        ],
+        "recommendation": [
+            20
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "9783400@N02": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "98154020@N02": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "98165246@N06": {
+        "original": [
+            4
+        ],
+        "recommendation": [
+            4
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "99228981@N06": {
+        "original": [
+            8
+        ],
+        "recommendation": [
+            8
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "99408042@N05": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "99426368@N04": {
+        "original": [
+            17
+        ],
+        "recommendation": [
+            17
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            25
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "99527754@N08": {
+        "original": [
+            1
+        ],
+        "recommendation": [
+            1
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            1.6368226875000005
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0.0
+        ]
+    },
+    "99618256@N03": {
+        "original": [
+            23
+        ],
+        "recommendation": [
+            23
+        ],
+        "demand_bandwidth": [
+            0,
+            0
+        ],
+        "allocated_bandwidth": [
+            0.0
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    },
+    "99682021@N06": {
+        "original": [
+            19
+        ],
+        "recommendation": [
+            19
+        ],
+        "demand_bandwidth": [
+            1.5,
+            25
+        ],
+        "allocated_bandwidth": [
+            10.901250000000001
+        ],
+        "demand_mec": [
+            0,
+            0
+        ],
+        "allocated_mec": [
+            0
+        ]
+    }
+}
